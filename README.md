@@ -79,7 +79,7 @@ Contributions are welcome! If you find any issues or want to improve the project
 5. Open a Pull Request.
 
 ## Contact
-For questions or suggestions, reach out at [your-email@example.com](mailto:your-email@example.com) or open an issue in the repository.
+For questions or suggestions, reach out at [your-email@example.com](mailto:malkaisi92@gmail.com) or open an issue in the repository.
 
 ---
 Happy coding!
